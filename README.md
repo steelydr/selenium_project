@@ -27,4 +27,4 @@ Link to get started with Selenium https://www.youtube.com/watch?v=BcjlvX39W7o
 Copy and paste your selenium dependency into your POM.xml file from the maven repository website (https://mvnrepository.com/artifact/org.seleniumhq.selenium/selenium-java) here you can get the latest versions of your selenium 
 
 The latest version of selenium v 4.11.0 while doing my project work
-![image](https://github.com/steelydr/selenium_project/assets/65842272/c9ea3ccd-74b0-4988-b297-4894f06401a7)
+
