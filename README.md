@@ -35,6 +35,11 @@ Selenium IDE (Integrated Development Environment) is primarily a record/run tool
 
 
 Selenium IDE allows a user or a test case developer to create the test cases and test suites and edit it later as per their requirements. The development environment also provides the capability of converting test cases to different programming languages, which makes it easier for the user and does not mandate the need for knowing a specific programming language.
+ 
+* Add an selenium IDE extension to your chrome
+  
+ ![Screenshot (843)](https://github.com/steelydr/selenium_project/assets/65842272/fa6c5d5c-ffa7-466d-87aa-f203c017d5af)
+
 
 
 After entering the base URL for the project, the recording begins, and all the interactions with the website are recorded and categorized into three main categories as shown in the above Screenshot:
