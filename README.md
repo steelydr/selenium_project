@@ -24,6 +24,6 @@ Useful link to install Chromedriver on your Windows 10/Linux/Mac https://www.you
 
 Link to get started with Selenium https://www.youtube.com/watch?v=BcjlvX39W7o
 
-Copy and paste your selenium dependency into your POM.xml file from the maven repository website https://mvnrepository.com/artifact/org.seleniumhq.selenium/selenium-java/4.11.0  here you can get the latest versions of your selenium 
+Copy and paste your selenium dependency into your POM.xml file from the maven repository website (https://mvnrepository.com/artifact/org.seleniumhq.selenium/selenium-java) here you can get the latest versions of your selenium 
 
 The latest version of selenium v 4.11.0 while doing my project work
