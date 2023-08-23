@@ -39,21 +39,23 @@ Selenium IDE allows a user or a test case developer to create the test cases and
 
 After entering the base URL for the project, the recording begins, and all the interactions with the website are recorded and categorized into three main categories as shown in the above Screenshot:
 
-Command
-Target
-Value
+* Command
+* Target
+* Value
 
 Features of Selenium IDE
 There are several features provided in the IDE under the toolbar, using which one can control the execution of test cases:
 
-Speed Control – Helps control the speed of test cases
+* Speed Control – Helps control the speed of test cases
+* Run All – Allows execution of the entire Test Suite
+* Run – Runs the currently selected test
+* Pause/Resume – Allows a user to pause and resume a particular test case
+* Step – Helps step into each specific command in the test script
+* Rollup – Helps group all the Selenese Commands together and make them execute as a single operation
 
-Run All – Allows execution of the entire Test Suite
-
-Run – Runs the currently selected test
-
-Pause/Resume – Allows a user to pause and resume a particular test case
-
-Step – Helps step into each specific command in the test script
-
-Rollup – Helps group all the Selenese Commands together and make them execute as a single operation
+Limitations of Selenium IDE
+* Not suitable for testing extensive data
+* Connections with the database can not be tested
+* Cannot handle the dynamic part of web-based applications
+* Does not support capturing of screenshots on test failures
+* No feature available for generating result reports
