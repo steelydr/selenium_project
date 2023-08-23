@@ -8,10 +8,15 @@ Selenium is not a single software application. It is a suite of various tools th
 Selenium has the following tools in its suite:
 
 1.Selenium IDE (Integrated Development Environment)
+
 2.Selenium WebDriver
+
 3.Selenium Client API
+
 4.Selenium Remote Control (Deprecated)
+
 5.Selenium Grid
+
 
 To get started with the Selenium project you must have Java Eclipse, Chromedriver/Firefox driver use whatever browser you are comfortable with.I prefer Chromedriver.
 
