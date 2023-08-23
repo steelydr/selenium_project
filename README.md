@@ -23,3 +23,14 @@ To get started with the Selenium project you must have Java Eclipse, Chromedrive
 Useful link to install Chromedriver on your Windows 10/Linux/Mac https://www.youtube.com/watch?v=dz59GsdvUF8
 
 Link to get started with Selenium https://www.youtube.com/watch?v=BcjlvX39W7o
+
+Copy and paste your selenium dependency into your POM.xml file from the maven repository website https://mvnrepository.com/artifact/org.seleniumhq.selenium/selenium-java/4.11.0  here you can get the latest versions of your selenium 
+
+Here I'm posting the latest version of selenium v 4.11.0 while doing my project work
+
+<!-- https://mvnrepository.com/artifact/org.seleniumhq.selenium/selenium-java -->
+<dependency>
+    <groupId>org.seleniumhq.selenium</groupId>
+    <artifactId>selenium-java</artifactId>
+    <version>4.11.0</version>
+</dependency>
