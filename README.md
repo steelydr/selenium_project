@@ -22,14 +22,38 @@ To get started with the Selenium project you must have Java Eclipse, Chromedrive
 
 Useful link to install Chromedriver on your Windows 10/Linux/Mac https://www.youtube.com/watch?v=dz59GsdvUF8
 
-*/Link to get started with Selenium  https://www.youtube.com/watch?v=BcjlvX39W7o
-
-**What is Selenium IDE?**
-
-
-
+Link to get started with Selenium  https://www.youtube.com/watch?v=BcjlvX39W7o
 
 Copy and paste your selenium dependency into your POM.xml file from the maven repository website (https://mvnrepository.com/artifact/org.seleniumhq.selenium/selenium-java) here you can get the latest versions of your selenium 
 
 The latest version of selenium v 4.11.0 while doing my project work
 
+
+**What is Selenium IDE?**
+
+Selenium IDE (Integrated Development Environment) is primarily a record/run tool that a test case developer uses to develop Selenium Test cases. Selenium IDE is an easy-to-use tool from the Selenium Test Suite and can even be used by someone new to developing automated test cases for their web applications. One does not require any special setup to get started with Selenium IDE. You just need to add the extension of your specific browser. Selenium IDE provides you with a GUI (Graphical User Interface) for easily recording your interactions with the website.
+
+
+Selenium IDE allows a user or a test case developer to create the test cases and test suites and edit it later as per their requirements. The development environment also provides the capability of converting test cases to different programming languages, which makes it easier for the user and does not mandate the need for knowing a specific programming language.
+
+
+After entering the base URL for the project, the recording begins, and all the interactions with the website are recorded and categorized into three main categories as shown in the above Screenshot:
+
+Command
+Target
+Value
+
+Features of Selenium IDE
+There are several features provided in the IDE under the toolbar, using which one can control the execution of test cases:
+
+Speed Control – Helps control the speed of test cases
+
+Run All – Allows execution of the entire Test Suite
+
+Run – Runs the currently selected test
+
+Pause/Resume – Allows a user to pause and resume a particular test case
+
+Step – Helps step into each specific command in the test script
+
+Rollup – Helps group all the Selenese Commands together and make them execute as a single operation
