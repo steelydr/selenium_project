@@ -4,13 +4,14 @@ Selenium is a portable framework and a popular tool for web app testing. It is c
 
 Selenium is not a single software application. It is a suite of various tools that you can use to perform different sorts of testing.
 
+
 Selenium has the following tools in its suite:
 
-Selenium IDE (Integrated Development Environment)
-Selenium WebDriver
-Selenium Client API
-Selenium Remote Control (Deprecated)
-Selenium Grid
+1.Selenium IDE (Integrated Development Environment)
+2.Selenium WebDriver
+3.Selenium Client API
+4.Selenium Remote Control (Deprecated)
+5.Selenium Grid
 
 To get started with the Selenium project you must have Java Eclipse, Chromedriver/Firefox driver use whatever browser you are comfortable with.I prefer Chromedriver.
 
