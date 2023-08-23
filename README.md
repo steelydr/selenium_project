@@ -29,6 +29,7 @@ Copy and paste your selenium dependency into your POM.xml file from the maven re
 Here I'm posting the latest version of selenium v 4.11.0 while doing my project work
 
 <!-- https://mvnrepository.com/artifact/org.seleniumhq.selenium/selenium-java -->
+
 <dependency>
     <groupId>org.seleniumhq.selenium</groupId>
     <artifactId>selenium-java</artifactId>
